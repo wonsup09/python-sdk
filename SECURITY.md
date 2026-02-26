@@ -18,4 +18,4 @@ To help us triage and respond quickly, please include:
 - A description of the vulnerability
 - Steps to reproduce the issue
 - The potential impact
-- Any suggested fixes (optional)
+- Any suggested fixes (optional) 
